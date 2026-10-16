@@ -1,0 +1,9 @@
+.env
+readings.csv
+*.csv
+!results/*.csv
+__pycache__/
+*.pyc
+timing_gen.json
+timing_compress.json
+cutoff.txt
